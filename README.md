@@ -1,4 +1,4 @@
 # PrograAvanzada
-SERGIO
-TOMAS
-MARCELO
+SERGIO  
+TOMAS  
+MARCELO  
